@@ -1,4 +1,4 @@
-# QueryFailedException
+# Peter Pierinakos
 
 - Rust developer
 - Creator of Openchat project
