@@ -1,7 +1,7 @@
 # Peter Pierinakos
 
-- Rust developer
-- Creator of Openchat project
+- Rust and TypeScript developer
+- Several Rust and personal projects
 - Lover of Free and Open Source
 - 1 year of general programming experience
 
