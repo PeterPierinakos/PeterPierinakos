@@ -1,7 +1,7 @@
 # Peter Pierinakos
 
-- Rust and TypeScript developer
-- Several Rust and personal projects
+- Rust developer
+- Constantly working on new Rust projects
 - Lover of Free and Open Source
 - 1 year of general programming experience
 
